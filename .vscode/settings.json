@@ -2,5 +2,7 @@
     "cSpell.words": [
         "importances",
         "lognormal"
-    ]
+    ],
+    "tailwindCSS.experimental.configFile": "./frontend/tailwind.config.js",
+    "css.lint.unknownAtRules": "ignore"
 }
