@@ -1,15 +1,23 @@
 {
     "cSpell.words": [
         "importances",
+        "ipynb",
         "joblib",
         "lognormal",
         "loguniform",
+        "mcdaniels",
+        "mypy",
         "numpy",
         "preds",
+        "pycache",
+        "pytest",
         "scikit",
         "scipy",
         "sklearn",
-        "venv"
+        "venv",
+        "vercel",
+        "vite",
+        "vitest"
     ],
     "tailwindCSS.experimental.configFile": "./frontend/tailwind.config.js",
     "css.lint.unknownAtRules": "ignore"
