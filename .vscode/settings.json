@@ -1,7 +1,15 @@
 {
     "cSpell.words": [
         "importances",
-        "lognormal"
+        "joblib",
+        "lognormal",
+        "loguniform",
+        "numpy",
+        "preds",
+        "scikit",
+        "scipy",
+        "sklearn",
+        "venv"
     ],
     "tailwindCSS.experimental.configFile": "./frontend/tailwind.config.js",
     "css.lint.unknownAtRules": "ignore"
